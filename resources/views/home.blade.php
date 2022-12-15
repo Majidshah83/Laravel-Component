@@ -7,8 +7,8 @@
     <title>Home</title>
 </head>
 <body>
-<x-header>
-    
-</x-header>
+<x-header mesg="This is dummy website"/>
+
+
 </body>
 </html>

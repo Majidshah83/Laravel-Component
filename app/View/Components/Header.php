@@ -11,9 +11,12 @@ class Header extends Component
      *
      * @return void
      */
-    public function __construct()
+    public $result;
+    public function __construct($mesg)
     {
-        //
+
+    $this->result=$mesg;
+
     }
 
     /**
