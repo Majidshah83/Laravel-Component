@@ -1,3 +1,3 @@
 <div>
-    <!-- Knowing is not enough; we must apply. Being willing is not enough; we must do. - Leonardo da Vinci -->
+<h2>This is our Header Component</h2>
 </div>
